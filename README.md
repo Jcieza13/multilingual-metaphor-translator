@@ -28,7 +28,7 @@ El enfoque demuestra habilidades en:
 ---
 
 ## 🖼️ Interfaz de la aplicación
-![App Screenshot](docs/app-screenshot.png)
+![Traductor de metáforas](docs/traductor-de-metaforas.png)
 
 ---
 
