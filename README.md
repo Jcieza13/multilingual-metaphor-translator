@@ -59,5 +59,5 @@ En este proyecto, las entradas (**Concepto técnico**, **Idioma objetivo**, **Ca
 ## 👩‍💻 Autor
 Creado por **Jen Pierr Cieza Díaz**  
 Proyecto del curso *Practitioner AI Challenge* (Udacity, 2026) | Ingeniería de Ejecución en Informática  
-Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+
 
