@@ -28,7 +28,8 @@ El enfoque demuestra habilidades en:
 ---
 
 ## 🖼️ Interfaz de la aplicación
-![Traductor de metáforas](docs/traductor-de-metaforas.png)
+![Traductor de metáforas](https://github.com/Jcieza13/multilingual-metaphor-translator/blob/main/docs/traductor%20de%20metaforas.png?raw=true)
+
 
 ---
 
