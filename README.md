@@ -37,7 +37,8 @@ El enfoque demuestra habilidades en:
 El *diagrama de flujo* en PartyRock representa las conexiones entre los módulos de la aplicación.  
 En este proyecto, las entradas (**Concepto técnico**, **Idioma objetivo**, **Calificación de claridad**) se conectan con las salidas (**Explicación metafórica**, **Definición técnica**, **Historia creativa**, **Imagen del concepto**, **Historial de metáforas**).  
 
-![Diagrama de flujo](docs/project-flow.png)
+![Diagrama de flujo](https://github.com/Jcieza13/multilingual-metaphor-translator/blob/main/docs/diagrama%20de%20flujo.png?raw=true)
+
 
 ---
 
